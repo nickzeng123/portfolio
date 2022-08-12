@@ -1,0 +1,12 @@
+.column {
+  width: 180px;
+  float: left;
+  font-style: normal;
+}
+
+
+img {
+  float: center;
+  padding: 2px;
+  max-width: 20%;
+}
