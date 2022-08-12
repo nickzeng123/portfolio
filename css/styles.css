@@ -4,9 +4,12 @@
   font-style: normal;
 }
 
-
 img {
   float: center;
   padding: 2px;
-  max-width: 20%;
+  max-width: 15%;
+}
+
+body {
+  background-color: rgb(235, 255, 239);
 }
