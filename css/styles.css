@@ -1,18 +1,13 @@
 .box {
-  margin: 15px;
-  border: 30px;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border: 10px darkgreen;
   padding: 30px;
   background-color: rgb(193, 255, 223);
-}
-
-.extra {
-  width: 150px;
-  float: left;
-  font-style: normal;
-  margin: 15px;
-  border: 30px;
-  padding: 30px;
-  background-color: rgb(193, 255, 223);
+  width: 90%;
+  box-sizing: border-box;
+  display: block;
 }
 
 img {
@@ -20,7 +15,6 @@ img {
   max-width: 10%;
   height: auto;
   display: block;
-
 }
 
 body {
