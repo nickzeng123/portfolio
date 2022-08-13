@@ -12,8 +12,14 @@ img {
 
 body {
   background-color: rgb(235, 255, 239);
+  color: rgb(0, 82, 5);
+  font-size: large;
 }
 
 h1 {
   text-align: center;
+}
+
+.year {
+  float: right;
 }
