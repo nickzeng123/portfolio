@@ -2,7 +2,7 @@
 
 #### By Nicholas Zeng 
 
-#### Demonstration of previous projects and an about me section.
+#### A demonstration of the previous projects on Github and an "about me" section.
 
 ## Technologies Used
 
@@ -15,7 +15,7 @@
 
 This browser application allows users to view projects of Nicholas Zeng, and navigates them to the repositories in Github.
 
-This browser application also demonstrates my skills, education, job experience, reason I learned programming, interests and hobbies. 
+This browser application also demonstrates my skills, education,  job experience, the reason I learned programming, interests, and hobbies. 
 
 ## Setup/Installation Requirements
 
@@ -28,7 +28,5 @@ This browser application also demonstrates my skills, education, job experience,
 * n/a
 
 ## License
-
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
 
 Copyright (c) 2022 Nicholas Zeng
