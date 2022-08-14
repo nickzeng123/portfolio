@@ -1,13 +1,13 @@
 # Portfolio Site of Nicholas Zeng
 
-#### By Nicholas Zeng **{List of contributors}**_
+#### By Nicholas Zeng 
 
-#### Demonstration of previous projects and about me section.
+#### Demonstration of previous projects and an about me section.
 
 ## Technologies Used
 
-* html
-* css
+* HTML
+* CSS
 * Github
 * Visual Studio Code
 
