@@ -13,9 +13,9 @@
 
 ## Description
 
-This browser application allows users to view projects of Nicholas Zeng, and navigates them to the repositories in Github.
+This browser application allows users to view projects of Nicholas Zeng by navigating them to the repositories in Github with a description for each project.
 
-This browser application also demonstrates my skills, education,  job experience, the reason I learned programming, interests, and hobbies. 
+This browser application also demonstrates my skills, education, job experience, the reason I learned programming, interests, and hobbies. 
 
 ## Setup/Installation Requirements
 
