@@ -28,5 +28,6 @@ This browser application also demonstrates my skills, education, job experience,
 * n/a
 
 ## License
+MIT License
 
 Copyright (c) 2022 Nicholas Zeng
