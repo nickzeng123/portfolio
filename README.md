@@ -19,8 +19,8 @@ This browser application also demonstrates my skills, education, job experience,
 
 ## Setup/Installation Requirements
 
-* Clone this repository to your desktop
-* Navigate to the top level of the directory
+* Clone this repository to your desktop by using the terminal of VS code with the following command: $ git clone https://github.com/nickzeng123/portfolio
+* Navigate to the top level of the directory called "portfolio" in your desktop
 * Open index.html in your browser
 
 ## Known Bugs
