@@ -1,5 +1,7 @@
 # Portfolio Site of Nicholas Zeng
 
+[Link to my portfolio repository](https://nickzeng123.github.io/portfolio/) 
+
 #### By Nicholas Zeng 
 
 #### A demonstration of the previous projects on Github and an "about me" section.
