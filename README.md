@@ -1,6 +1,6 @@
 # Portfolio Site of Nicholas Zeng
 
-[Link to my portfolio repository](https://nickzeng123.github.io/portfolio/) 
+[Link to my Github Page](https://nickzeng123.github.io/portfolio/) 
 
 #### By Nicholas Zeng 
 
